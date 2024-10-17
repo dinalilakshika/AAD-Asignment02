@@ -20,11 +20,17 @@ DTOs & Entities: Separates Data Transfer Objects (DTOs) for communication betwee
 
 
 Technologies Used
+
 Framework: Spring Boot
+
 Database: MySQL
+
 ORM: Hibernate (JPA)
+
 API Documentation: Swagger/OpenAPI (optional)
+
 Build Tool: Maven
+
 Prerequisites
 Java: 11 or higher
 Maven: 3.6 or later
