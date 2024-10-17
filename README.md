@@ -7,10 +7,15 @@ Built with Spring Boot and MySQL, the system adheres to best practices for REST 
 Features
 
 Customer Management: Ability to create, update, delete, and retrieve customer details.
+
 Items Management: Add, update, delete, and fetch Item details for efficient inventory management.
+
 Order Processing: Place new orders, view past order history, and manage order specifics.
+
 Inventory Management: Monitor and manage stock levels, set reorder points, and update product pricing.
+
 CRUD Functionality: Full support for Create, Read, Update, and Delete operations across all entities.
+
 DTOs & Entities: Separates Data Transfer Objects (DTOs) for communication between client and server and entities for database management.
 
 
